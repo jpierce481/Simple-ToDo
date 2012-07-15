@@ -6,7 +6,7 @@ Changes to the sample code include:
 
  - New intro page with Pierce Computing Consulting logo,
 
- - New menu option titles,
+ - New titles were added for tab options,
 
  - Added sort of open ToDo items,
 
