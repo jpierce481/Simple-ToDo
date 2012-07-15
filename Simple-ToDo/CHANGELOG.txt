@@ -1,0 +1,9 @@
+(July 14, 2012)
+This app was developed as my first mobile app.  Understanding of Titanium Studio and Apple Xcode was obtained.  
+Changes to the sample code include:
+
+ - New intro page with PCC logo
+
+ - New menu option titles
+
+ - and other minor changes.
