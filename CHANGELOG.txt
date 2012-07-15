@@ -1,5 +1,5 @@
 (July 14, 2012)
-This app was developed as my first mobile app.  The goal was to obtain Understanding of Titanium Studio, Apple Xcode,
+This app was developed as my first mobile device app.  The goal was to obtain Understanding of Titanium Studio, Apple Xcode,
 and SQLite.  
 
 Changes to the sample code include:
