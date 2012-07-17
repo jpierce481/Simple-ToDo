@@ -18,11 +18,11 @@ else {
 		//create our global tab group	
 		globals.tabs = new AppTabGroup(
 			{
-				title: 'My To Do List ',
+				title: 'My ToDo List',
 				backgroundColor: '#33FFFF',
 				icon: 'images/KS_nav_ui.png',
 				window: new ListWindow({
-					title: 'Todo',
+					title: 'My ToDo List',
 					backgroundColor: '#FFCC66',
 					navBarHidden: false,
 					isDone: 0,
@@ -42,7 +42,7 @@ else {
 				title: 'My Completed Stuff',
 				icon: 'images/KS_nav_views.png',
 				window: new ListWindow({
-					title: 'Done',
+					title: 'My Completed Stuff',
 					backgroundColor: '#fff',
 					navBarHidden: false,
 					isDone: 1
