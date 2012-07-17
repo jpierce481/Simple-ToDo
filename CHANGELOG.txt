@@ -7,8 +7,12 @@ Changes to the sample code include:
  - New intro page with Pierce Computing Consulting logo,
 
  - New titles were added for tab options,
+ 
+ - New window titles were added,
 
- - Added sort of open ToDo items,
+ - Added sort of My ToDo List,
+ 
+ - Added sort of My Completed Stuff,
 
  - Added page background color for My ToDo List (Android),
 
